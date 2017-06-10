@@ -1,6 +1,6 @@
 package ComputerScience.BankAccount;
 /**
- * A tester for the BankAccount class
+ * A tester for the ComputerScience.BankAccount class
  * 
  * @author Logan Traffas
  * @version 10/12/2016

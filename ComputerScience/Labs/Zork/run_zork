@@ -1,0 +1,3 @@
+cd ../../../
+make ZorkRunner.class -C ComputerScience/ComputerScience.Labs/Zork/
+java -classpath . ComputerScience.ComputerScience.Labs.Zork.ZorkRunner
